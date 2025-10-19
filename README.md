@@ -79,7 +79,7 @@ From the root of the project, run the following command. This will build the Nod
 - Create a .env file in the root directory by copying the example format:
     ```bash
     # .env
-    MONGO_URI=mongodb://localhost:27017/brandsDB
+    MONGO_URI=MONGODB_URI=mongodb://root:examplepassword@localhost:27017/brand-assessment?authSource=admin
     ```
 
 3. Run the application
