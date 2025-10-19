@@ -1,0 +1,11 @@
+Case ID,Description,Key Fields and Values,Purpose
+CASE-01,"Standard, complete brand entry",All fields have valid, typical data.,"Tests the creation of a standard, well-formed document."
+CASE-02,"Brand with minimum allowed year","yearFounded: 1600","Tests the schema's minimum value validation for the yearFounded field."
+CASE-03,"Brand with only one location","numberOfLocations: 1","Tests the schema's minimum value validation for the numberOfLocations field."
+CASE-04,"Brand founded in the current year","yearFounded: [Current Year]","Tests the schema's maximum value validation for the yearFounded field."
+CASE-05,"Brand with a large number of locations","numberOfLocations: > 5000","Ensures the schema handles large integer values correctly."
+CASE-06,"Brand with a very long name","brandName: ""...and Catchy Slogan""","Tests string length handling for the brand's name."
+CASE-07,"Brand with a very long headquarters name","headquarters: ""The Grand Central Municipal District...""","Tests string length handling for the headquarters field."
+CASE-08,"An old, established financial company","yearFounded: < 1950, brandName: ""...Financial Group""","Provides realistic, categorical data for a common business type."
+CASE-09,"A modern tech company","yearFounded: > 2018, numberOfLocations: < 5","Models a common business type with specific characteristics (recent, few locations)."
+CASE-10,"Another standard, varied entry","All fields have valid data.","Adds more variety to the dataset for a robust test environment."

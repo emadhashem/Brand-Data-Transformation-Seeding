@@ -1,0 +1,70 @@
+[
+  {
+    "_id": { "$oid": "6724b0c7c852441a82912a01" },
+    "brandName": "Innovate Inc.",
+    "established": "2015",
+    "storeCount": "50",
+    "hqAddress": "San Francisco, CA"
+  },
+  {
+    "_id": { "$oid": "6724b0c7c852441a82912a02" },
+    "name": "Legacy Co",
+    "yearFounded": "nineteen-ninety",
+    "numberOfLocations": "200",
+    "mainOffice": "New York, NY"
+  },
+  {
+    "_id": { "$oid": "6724b0c7c852441a82912a03" },
+    "brandName": "Foodies United",
+    "established": "2005",
+    "storeCount": "150",
+    "hqAddress": "Chicago, IL"
+  },
+  {
+    "_id": { "$oid": "6724b0c7c852441a82912a04" },
+    "name": "HealthFirst",
+    "yearFounded": "2010",
+    "numberOfLocations": "-5",
+    "mainOffice": "Boston, MA"
+  },
+  {
+    "_id": { "$oid": "6724b0c7c852441a82912a05" },
+    "brandName": "GlobeTrotters",
+    "established": "1988",
+    "hqAddress": "London, UK"
+  },
+  {
+    "_id": { "$oid": "6724b0c7c852441a82912a06" },
+    "name": "AutoWorks",
+    "yearFounded": "1580",
+    "numberOfLocations": "300",
+    "mainOffice": "Detroit, MI"
+  },
+  {
+    "_id": { "$oid": "6724b0c7c852441a82912a07" },
+    "brandName": "StyleSavvy",
+    "established": "2026",
+    "storeCount": "25",
+    "hqAddress": "Paris, FR"
+  },
+  {
+    "_id": { "$oid": "6724b0c7c852441a82912a08" },
+    "name": "EduKate",
+    "yearFounded": "2012",
+    "numberOfLocations": 0,
+    "mainOffice": "Helsinki, FI"
+  },
+  {
+    "_id": { "$oid": "6724b0c7c852441a82912a09" },
+    "brandName": "GreenLeaf",
+    "established": "2000",
+    "storeCount": "forty"
+  },
+  {
+    "_id": { "$oid": "6724b0c7c852441a82912a10" },
+    "name": "BuildIt",
+    "yearFounded": "1995",
+    "mainOffice": "Denver, CO"
+  }
+]
+

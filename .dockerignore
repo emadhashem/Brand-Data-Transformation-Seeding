@@ -1,0 +1,5 @@
+node_modules
+dist
+.env
+brands-transformed.json
+npm-debug.log

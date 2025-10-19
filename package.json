@@ -1,0 +1,28 @@
+{
+  "name": "brand-data-assessment",
+  "version": "1.0.0",
+  "description": "A project to transform and seed brand data.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/scripts/run-all.js",
+    "dev": "ts-node src/scripts/run-all.ts"
+  },
+  "keywords": [
+    "mongoose",
+    "typescript",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "dotenv": "^16.4.1",
+    "mongoose": "^8.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

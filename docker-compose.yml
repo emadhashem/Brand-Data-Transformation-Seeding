@@ -1,0 +1,27 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    container_name: brand_etl_app
+    environment:
+      MONGODB_URI: "mongodb://root:examplepassword@mongo:27017/brand-assessment?authSource=admin"
+    volumes:
+      - ./brands-transformed.json:/app/brands-transformed.json
+    depends_on:
+      - mongo
+    command: npm start
+
+  mongo:
+    image: mongo:latest
+    container_name: mongo_db
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: examplepassword
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:
