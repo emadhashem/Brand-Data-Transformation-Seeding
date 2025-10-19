@@ -32,15 +32,30 @@ async function transformData(db: Db) {
   let transformedCount = 0;
 
   for (const doc of rawBrands) {
+    let brandNameValue: string | undefined;
+    if (doc.brandName && typeof doc.brandName === "string") {
+      brandNameValue = doc.brandName;
+    } else if (doc.brand && typeof doc.brand === "object" && doc.brand.name) {
+      brandNameValue = doc.brand.name;
+    } else if (typeof doc.brand === "string" && doc.brand.length > 0) {
+      brandNameValue = doc.brand;
+    }
+
     const transformed: any = {
-      brandName: doc.brandName || doc.name,
-      headquarters: doc.hqAddress || doc.mainOffice || "Unknown",
+      brandName: brandNameValue || "Unknown Brand",
+      headquarters:
+        doc.hqAddress || doc.mainOffice || doc.headquarters || "Unknown",
     };
 
-    let year = parseInt(doc.yearFounded, 10) || parseInt(doc.established, 10);
+    let year =
+      parseInt(doc.yearCreated, 10) ||
+      parseInt(doc.established, 10) ||
+      parseInt(doc.yearFounded, 10) ||
+      parseInt(doc.yearsFounded, 10);
+
     const currentYear = new Date().getFullYear();
     if (isNaN(year) || year < 1600) year = 1600;
-    if (year > currentYear) year = currentYear; // Corrects future years
+    if (year > currentYear) year = currentYear;
     transformed.yearFounded = year;
 
     let locations =

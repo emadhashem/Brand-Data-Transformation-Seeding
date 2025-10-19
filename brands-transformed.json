@@ -3,61 +3,61 @@
     "_id": "66069ff93007b006635c0245",
     "brandName": "Ward, Hand and Ortiz",
     "yearCreated": "1970",
-    "headquarters": "Unknown",
+    "headquarters": "Jastside",
     "numberOfLocations": 2132,
-    "updatedAt": "2025-10-19T19:07:48.979Z",
-    "yearFounded": 1600
+    "updatedAt": "2025-10-19T19:24:01.095Z",
+    "yearFounded": 1970
   },
   {
     "_id": "66069ff93007b006635c0246",
     "brandName": "Ergonomic Frozen Bacon",
     "yearFounded": 1600,
-    "headquarters": "Unknown",
+    "headquarters": "Gavinstead",
     "numberOfLocations": 1,
-    "updatedAt": "2025-10-19T19:07:48.988Z"
+    "updatedAt": "2025-10-19T19:24:01.104Z"
   },
   {
     "_id": "66069ff93007b006635c0247",
     "brandName": "Breitenberg, Greenholt and Ledner",
     "yearFounded": 1982,
-    "headquarters": "Unknown",
+    "headquarters": "Fort Lenna",
     "numberOfLocations": 1000,
-    "updatedAt": "2025-10-19T19:07:48.990Z"
+    "updatedAt": "2025-10-19T19:24:01.107Z"
   },
   {
     "_id": "66069ff93007b006635c0248",
     "brandName": "Modern Granite Fish",
-    "yearFounded": 1600,
+    "yearFounded": 1970,
     "yearCreated": "1970",
-    "headquarters": "Unknown",
+    "headquarters": "Kundebury",
     "numberOfLocations": 1,
-    "updatedAt": "2025-10-19T19:07:48.993Z"
+    "updatedAt": "2025-10-19T19:24:01.109Z"
   },
   {
     "_id": "66069ff93007b006635c0249",
     "brandName": "Gorgeous Granite Pizza",
-    "headquarters": "Unknown",
+    "headquarters": "Jonesborough",
     "numberOfLocations": 1,
     "yearsFounded": "1980",
-    "updatedAt": "2025-10-19T19:07:48.995Z",
-    "yearFounded": 1600
+    "updatedAt": "2025-10-19T19:24:01.110Z",
+    "yearFounded": 1980
   },
   {
     "_id": "66069ff93007b006635c024a",
     "brandName": "Oriental Plastic Pants",
-    "yearFounded": 1600,
+    "yearFounded": 1970,
     "yearCreated": 1970,
-    "headquarters": "Unknown",
+    "headquarters": "Wardfort",
     "numberOfLocations": 1,
-    "updatedAt": "2025-10-19T19:07:48.998Z"
+    "updatedAt": "2025-10-19T19:24:01.113Z"
   },
   {
     "_id": "66069ff93007b006635c024b",
     "brandName": "Refined Granite Towels",
     "yearFounded": 1600,
-    "headquarters": "Unknown",
+    "headquarters": "Lemkeland",
     "numberOfLocations": 1,
-    "updatedAt": "2025-10-19T19:07:49.000Z"
+    "updatedAt": "2025-10-19T19:24:01.115Z"
   },
   {
     "_id": "66069ff93007b006635c024c",
@@ -67,125 +67,126 @@
     "hqAddress": "DuBuqueburgh",
     "brand": {},
     "headquarters": "DuBuqueburgh",
-    "updatedAt": "2025-10-19T19:07:49.001Z"
+    "updatedAt": "2025-10-19T19:24:01.117Z"
   },
   {
     "_id": "66069ff93007b006635c024d",
     "yearFounded": 1600,
-    "headquarters": "Unknown",
+    "headquarters": "West Mylesboro",
     "numberOfLocations": 1,
     "brand": {
       "name": "Licensed Concrete Tuna"
     },
-    "updatedAt": "2025-10-19T19:07:49.003Z"
+    "brandName": "Licensed Concrete Tuna",
+    "updatedAt": "2025-10-19T19:24:01.119Z"
   },
   {
     "_id": "66069ff93007b006635c024e",
     "brandName": "Generic Cotton Pizza",
     "yearFounded": 1600,
-    "headquarters": "Unknown",
+    "headquarters": "North Ralphport",
     "numberOfLocations": 1,
     "brand": "",
-    "updatedAt": "2025-10-19T19:07:49.005Z"
+    "updatedAt": "2025-10-19T19:24:01.121Z"
   },
   {
-    "_id": "68f53705d5f85e9b959a2de3",
-    "brandName": "Sporer - Purdy",
+    "_id": "68f53ad1243914e722b8b956",
+    "brandName": "Hahn, Ledner and Kautzer",
+    "yearFounded": 1980,
+    "headquarters": "West Lelandton, OH",
+    "numberOfLocations": 3113,
+    "createdAt": "2025-10-19T19:24:01.132Z",
+    "updatedAt": "2025-10-19T19:24:01.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f53ad1243914e722b8b955",
+    "brandName": "Zboncak - Lubowitz",
+    "yearFounded": 2013,
+    "headquarters": "West Jordyn, AL",
+    "numberOfLocations": 1452,
+    "createdAt": "2025-10-19T19:24:01.132Z",
+    "updatedAt": "2025-10-19T19:24:01.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f53ad1243914e722b8b959",
+    "brandName": "Moore, Lebsack and Gleichner",
+    "yearFounded": 2006,
+    "headquarters": "Grahamshire, RI",
+    "numberOfLocations": 3901,
+    "createdAt": "2025-10-19T19:24:01.132Z",
+    "updatedAt": "2025-10-19T19:24:01.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f53ad1243914e722b8b95a",
+    "brandName": "Graham, Ankunding and Fritsch",
+    "yearFounded": 2016,
+    "headquarters": "Norfolk, AZ",
+    "numberOfLocations": 4518,
+    "createdAt": "2025-10-19T19:24:01.132Z",
+    "updatedAt": "2025-10-19T19:24:01.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f53ad1243914e722b8b95b",
+    "brandName": "Rath, Stroman and Haley",
+    "yearFounded": 2021,
+    "headquarters": "South Felicita, MN",
+    "numberOfLocations": 313,
+    "createdAt": "2025-10-19T19:24:01.132Z",
+    "updatedAt": "2025-10-19T19:24:01.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f53ad1243914e722b8b95c",
+    "brandName": "Homenick, Kassulke and Becker",
+    "yearFounded": 2021,
+    "headquarters": "Freddyside, MA",
+    "numberOfLocations": 2117,
+    "createdAt": "2025-10-19T19:24:01.132Z",
+    "updatedAt": "2025-10-19T19:24:01.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f53ad1243914e722b8b95d",
+    "brandName": "Grimes - Leannon",
+    "yearFounded": 2002,
+    "headquarters": "West Malinda, KY",
+    "numberOfLocations": 2789,
+    "createdAt": "2025-10-19T19:24:01.132Z",
+    "updatedAt": "2025-10-19T19:24:01.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f53ad1243914e722b8b95e",
+    "brandName": "Bednar - Raynor",
+    "yearFounded": 1995,
+    "headquarters": "South Keaganstad, WA",
+    "numberOfLocations": 4054,
+    "createdAt": "2025-10-19T19:24:01.132Z",
+    "updatedAt": "2025-10-19T19:24:01.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f53ad1243914e722b8b957",
+    "brandName": "Conroy - O'Connell",
     "yearFounded": 1997,
-    "headquarters": "Lake Jameson, CT",
-    "numberOfLocations": 1069,
-    "createdAt": "2025-10-19T19:07:49.017Z",
-    "updatedAt": "2025-10-19T19:07:49.017Z",
+    "headquarters": "North Kolbyfort, AZ",
+    "numberOfLocations": 576,
+    "createdAt": "2025-10-19T19:24:01.132Z",
+    "updatedAt": "2025-10-19T19:24:01.132Z",
     "__v": 0
   },
   {
-    "_id": "68f53705d5f85e9b959a2de4",
-    "brandName": "Mosciski - Buckridge",
-    "yearFounded": 2024,
-    "headquarters": "Laurelfurt, MS",
-    "numberOfLocations": 1544,
-    "createdAt": "2025-10-19T19:07:49.017Z",
-    "updatedAt": "2025-10-19T19:07:49.017Z",
-    "__v": 0
-  },
-  {
-    "_id": "68f53705d5f85e9b959a2de7",
-    "brandName": "Marvin LLC",
-    "yearFounded": 2011,
-    "headquarters": "Lake Sherman, UT",
-    "numberOfLocations": 3606,
-    "createdAt": "2025-10-19T19:07:49.017Z",
-    "updatedAt": "2025-10-19T19:07:49.017Z",
-    "__v": 0
-  },
-  {
-    "_id": "68f53705d5f85e9b959a2de8",
-    "brandName": "Pfannerstill Inc",
-    "yearFounded": 1982,
-    "headquarters": "Eddiecester, UT",
-    "numberOfLocations": 1908,
-    "createdAt": "2025-10-19T19:07:49.017Z",
-    "updatedAt": "2025-10-19T19:07:49.017Z",
-    "__v": 0
-  },
-  {
-    "_id": "68f53705d5f85e9b959a2de9",
-    "brandName": "Orn Group",
-    "yearFounded": 2001,
-    "headquarters": "West Trentfurt, MT",
-    "numberOfLocations": 1688,
-    "createdAt": "2025-10-19T19:07:49.017Z",
-    "updatedAt": "2025-10-19T19:07:49.017Z",
-    "__v": 0
-  },
-  {
-    "_id": "68f53705d5f85e9b959a2dea",
-    "brandName": "Doyle - Torphy",
-    "yearFounded": 1985,
-    "headquarters": "Mount Pleasant, WA",
-    "numberOfLocations": 2100,
-    "createdAt": "2025-10-19T19:07:49.017Z",
-    "updatedAt": "2025-10-19T19:07:49.017Z",
-    "__v": 0
-  },
-  {
-    "_id": "68f53705d5f85e9b959a2deb",
-    "brandName": "Kessler and Sons",
-    "yearFounded": 2000,
-    "headquarters": "Shayneview, UT",
-    "numberOfLocations": 4681,
-    "createdAt": "2025-10-19T19:07:49.017Z",
-    "updatedAt": "2025-10-19T19:07:49.017Z",
-    "__v": 0
-  },
-  {
-    "_id": "68f53705d5f85e9b959a2dec",
-    "brandName": "Mraz Inc",
-    "yearFounded": 2011,
-    "headquarters": "East Dane, WA",
-    "numberOfLocations": 4950,
-    "createdAt": "2025-10-19T19:07:49.017Z",
-    "updatedAt": "2025-10-19T19:07:49.017Z",
-    "__v": 0
-  },
-  {
-    "_id": "68f53705d5f85e9b959a2de5",
-    "brandName": "Kuhic, Grady and Wyman",
-    "yearFounded": 2022,
-    "headquarters": "South Lou, NE",
-    "numberOfLocations": 144,
-    "createdAt": "2025-10-19T19:07:49.017Z",
-    "updatedAt": "2025-10-19T19:07:49.017Z",
-    "__v": 0
-  },
-  {
-    "_id": "68f53705d5f85e9b959a2de6",
-    "brandName": "Runolfsdottir and Sons",
-    "yearFounded": 1996,
-    "headquarters": "Greeley, MI",
-    "numberOfLocations": 1714,
-    "createdAt": "2025-10-19T19:07:49.017Z",
-    "updatedAt": "2025-10-19T19:07:49.017Z",
+    "_id": "68f53ad1243914e722b8b958",
+    "brandName": "Kertzmann - Emmerich",
+    "yearFounded": 1997,
+    "headquarters": "Allisonborough, CT",
+    "numberOfLocations": 3762,
+    "createdAt": "2025-10-19T19:24:01.132Z",
+    "updatedAt": "2025-10-19T19:24:01.132Z",
     "__v": 0
   }
 ]
