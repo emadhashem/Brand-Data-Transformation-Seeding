@@ -44,7 +44,7 @@ This project is fully containerized, allowing you to run the entire application 
 
 1. Clone the repository:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/emadhashem/Brand-Data-Transformation-Seeding
     cd <repository-directory>
     ```
 
