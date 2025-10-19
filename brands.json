@@ -1,70 +1,96 @@
-[
-  {
-    "_id": { "$oid": "6724b0c7c852441a82912a01" },
-    "brandName": "Innovate Inc.",
-    "established": "2015",
-    "storeCount": "50",
-    "hqAddress": "San Francisco, CA"
+[{
+  "_id": {
+    "$oid": "66069ff93007b006635c0245"
   },
-  {
-    "_id": { "$oid": "6724b0c7c852441a82912a02" },
-    "name": "Legacy Co",
-    "yearFounded": "nineteen-ninety",
-    "numberOfLocations": "200",
-    "mainOffice": "New York, NY"
+  "brandName": "Ward, Hand and Ortiz",
+  "yearCreated": "1970",
+  "headquarters": "Jastside",
+  "numberOfLocations": 2132
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0246"
   },
-  {
-    "_id": { "$oid": "6724b0c7c852441a82912a03" },
-    "brandName": "Foodies United",
-    "established": "2005",
-    "storeCount": "150",
-    "hqAddress": "Chicago, IL"
+  "brandName": "Ergonomic Frozen Bacon",
+  "yearFounded": "decet",
+  "headquarters": "Gavinstead",
+  "numberOfLocations": "tantillus"
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0247"
   },
-  {
-    "_id": { "$oid": "6724b0c7c852441a82912a04" },
-    "name": "HealthFirst",
-    "yearFounded": "2010",
-    "numberOfLocations": "-5",
-    "mainOffice": "Boston, MA"
+  "brandName": "Breitenberg, Greenholt and Ledner",
+  "yearFounded": 1982,
+  "headquarters": "Fort Lenna",
+  "numberOfLocations": 1000
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0248"
   },
-  {
-    "_id": { "$oid": "6724b0c7c852441a82912a05" },
-    "brandName": "GlobeTrotters",
-    "established": "1988",
-    "hqAddress": "London, UK"
+  "brandName": "Modern Granite Fish",
+  "yearFounded": null,
+	"yearCreated": "1970",
+  "headquarters": "Kundebury",
+  "numberOfLocations": "perspiciatis"
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0249"
   },
-  {
-    "_id": { "$oid": "6724b0c7c852441a82912a06" },
-    "name": "AutoWorks",
-    "yearFounded": "1580",
-    "numberOfLocations": "300",
-    "mainOffice": "Detroit, MI"
+  "brandName": "Gorgeous Granite Pizza",
+  "headquarters": "Jonesborough",
+  "numberOfLocations": "calculus",
+  "yearsFounded": "1980"
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024a"
   },
-  {
-    "_id": { "$oid": "6724b0c7c852441a82912a07" },
-    "brandName": "StyleSavvy",
-    "established": "2026",
-    "storeCount": "25",
-    "hqAddress": "Paris, FR"
+  "brandName": "Oriental Plastic Pants",
+  "yearFounded": null,
+	"yearCreated": 1970,
+  "headquarters": "Wardfort",
+  "numberOfLocations": "benevolentia"
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024b"
   },
-  {
-    "_id": { "$oid": "6724b0c7c852441a82912a08" },
-    "name": "EduKate",
-    "yearFounded": "2012",
-    "numberOfLocations": 0,
-    "mainOffice": "Helsinki, FI"
+  "brandName": "Refined Granite Towels",
+  "yearFounded": "clam",
+  "headquarters": "Lemkeland",
+  "numberOfLocations": "cupressus"
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024c"
   },
-  {
-    "_id": { "$oid": "6724b0c7c852441a82912a09" },
-    "brandName": "GreenLeaf",
-    "established": "2000",
-    "storeCount": "forty"
+  "brandName": "Corkery Inc",
+  "yearFounded": 1935,
+  "numberOfLocations": 9200,
+  "hqAddress": "DuBuqueburgh",
+  "brand": {}
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024d"
   },
-  {
-    "_id": { "$oid": "6724b0c7c852441a82912a10" },
-    "name": "BuildIt",
-    "yearFounded": "1995",
-    "mainOffice": "Denver, CO"
+  "yearFounded": "volubilis",
+  "headquarters": "West Mylesboro",
+  "numberOfLocations": "claudeo",
+  "brand": {
+    "name": "Licensed Concrete Tuna"
   }
-]
-
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024e"
+  },
+  "brandName": "Generic Cotton Pizza",
+  "yearFounded": "studio",
+  "headquarters": "North Ralphport",
+  "numberOfLocations": "contego",
+  "brand": ""
+}]
